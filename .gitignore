@@ -1,2 +1,5 @@
 .idea/
 non-web-board.iml
+/bin/
+.classpath
+.project
